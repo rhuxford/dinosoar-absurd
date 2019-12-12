@@ -7,7 +7,7 @@ import ExternalLink from '@common/ExternalLink';
 
 const FAQS = [
   {
-    title: 'What tech does Gatsby use?',
+    title: 'What tech does Dinosoar use?',
     content: () => (
       <>
         Enjoy the power of the latest web technologies – React.js , Webpack ,

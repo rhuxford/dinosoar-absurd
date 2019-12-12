@@ -9,7 +9,7 @@ const TEAM = [
   {
     name: 'Josh Peck',
     image: 'josh.jpg',
-    role: 'Founder',
+    role: 'Chief Dinosoar',
   },
   {
     name: 'Lisa Haydon',
