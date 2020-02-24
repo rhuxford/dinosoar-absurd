@@ -2,7 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 
 const SEO_DATA = {
-  description: 'An absurd gatsby starter',
+  description: 'Marketing agency specialized in absurd growth.',
   title: 'Absurd Growth',
   url: '',
   author: 'Rex Huxford',
